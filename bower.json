@@ -1,0 +1,22 @@
+{
+  "name": "selectize-static-filter",
+  "version": "0.1.1",
+  "description": "Plugin for selectize that hide dropdown arrow when input is non-empty.",
+  "main": ["./dist/js/selectize-static-filter.js", "./dist/css/selectize-static-filter.css"],
+  "authors": [
+    "Patryk Wasiewicz <patryk.wasiewicz@outlook.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "selectize",
+    "static-filter"
+  ],
+  "homepage": "https://github.com/pwasiewicz/selectize-static-filter",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

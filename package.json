@@ -1,0 +1,11 @@
+{
+  "name": "selectize-static-filter",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-jshint": "latest",
+    "jshint-stylish": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-copy": "latest"
+  }
+}
